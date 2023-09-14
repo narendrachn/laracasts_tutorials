@@ -13,7 +13,7 @@
         $greeting = "Hello";
         ?><br>
         <?php
-        echo  $greeting . " world";
+        echo  "$greeting world";
 
     
         ?><br>
