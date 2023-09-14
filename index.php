@@ -12,7 +12,7 @@
 
         $greeting = "Hello";
 
-        echo "Hello" . " world";
+        echo  $greeting . " world";
         ?>
     </h1>
     
