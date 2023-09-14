@@ -11,11 +11,12 @@
         <?php 
 
         $greeting = "Hello";
-
+        ?><br>
+        <?php
         echo  $greeting . " world";
 
     
-        ?>
+        ?><br>
         DGL-123 PHP
     </h1>
     
